@@ -8,14 +8,14 @@
 
 
 
-var sMS = "January,February,March,April,May,June,July,August,September,October,November,December";
-var sDS = "mon,tue,wed,thu,fri,sat,sun";
+var sMS = "Enero,Febrero,Marzo,Abril,Mayo,Junio,Julio,Agostot,Setiembre,Octubre,Noviembre,Diciembre";
+var sDS = "Lun,Mar,Mie,Jue,Vie,Sab,Dom";
 var sHS = "1/1,8/3,1/5,25/12";
 
 
 var pMS = "Enter names for months (by comma)\nOr leave unchanged";
 var pDS = "Enter names for days of week (by comma)\nOr leave unchanged";
-var pHS = "Enter holidays, like this D/M[,D/M,D/M...]";
+var pHS = "Enter holidays, like this D/M[,1/1,17/4,18/4,1/5,7/6,29/6,23/7,28/7,29/7,6/8,30/8,8/10,1/11,8/12,9/12,25/12...]";
 
 var AppCap = "Calendar Premaker (for Adobe Illustrator CS)\n\n";
 var iStr = "To correct appearance use:\n\n"+
